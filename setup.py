@@ -7,7 +7,7 @@ setup(
     author="Steven Raphael",
     author_email="stevennraphael@gmail.com",
     url="https://github.com/stevenraphael/pathsize",
-    #license="MIT",
+    license="MIT",
     py_modules=['main'],
     install_requires=[
         'docopt',
